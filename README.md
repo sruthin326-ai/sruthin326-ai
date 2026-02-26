@@ -1,11 +1,11 @@
 # Hi, I'm Sruthi 👋
 
-🎓 Postgraduate Student in Statistics with Data Science  
+Postgraduate Student in Statistics with Data Science  
 📊 Data Analyst | 🤖 Machine Learning Enthusiast | 💻 Python Developer  
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 I am an aspiring data analyst with a strong background in Statistics with Data Science and a deep passion for data analytics, machine learning, and statistical modeling. I enjoy working with complex datasets to extract meaningful insights, identify patterns, and support data-driven decision-making.
 
@@ -29,7 +29,7 @@ My goal is to grow as a professional data analyst , contribute to innovative pro
 
 ---
 
-## 📌 Projects
+## Projects
 
 - Insurance Claim Prediction (Machine Learning)  
 - Population Data Analysis Dashboard  
@@ -39,7 +39,7 @@ My goal is to grow as a professional data analyst , contribute to innovative pro
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Advanced Machine Learning  
 - Big Data Analytics  
@@ -48,7 +48,7 @@ My goal is to grow as a professional data analyst , contribute to innovative pro
 
 ---
 
-## 📊 Areas of Interest
+## Areas of Interest
 
 - Data Analytics  
 - Business Intelligence  
@@ -58,14 +58,14 @@ My goal is to grow as a professional data analyst , contribute to innovative pro
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - LinkedIn: (www.linkedin.com/in/sruthi-n-7b342b397)
 - Email: (sruthin326@gmail.com)  
 
 ---
 
-⭐ Feel free to explore my repositories and connect with me!
+ Feel free to explore my repositories and connect with me!
 
 <!--
 **sruthin326-ai/sruthin326-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
