@@ -17,7 +17,7 @@ My goal is to grow as a professional data analyst , contribute to innovative pro
 
 ---
 
-## 🔧 Skills
+## Skills
 
 - Programming: Python  
 - Databases: SQL  
